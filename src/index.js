@@ -1,12 +1,22 @@
-import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import React from 'react';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+import PropTypes from 'prop-types';
+import Header from './components/header';
+import Footer from './components/footer';
 
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
+function App(props) {
+  return (
+    <div>
+      <Header />
+      <h1>Welcome to app: {props.title}!</h1>
+      <Footer />
+    </div>
+  );
+}
+
+App.propTypes = {
+  title: PropTypes.string
+};
+
+ReactDOM.render(<App title="www" />, document.getElementById('root'));
