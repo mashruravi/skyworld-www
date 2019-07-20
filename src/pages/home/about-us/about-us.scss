@@ -1,0 +1,27 @@
+.aboutus-container {
+  margin-top: 24px;
+}
+
+.quote-container {
+  margin-top: 48px;
+  margin-bottom: 48px;
+  display: flex;
+  justify-content: center;
+
+  .quote-image {
+    img {
+      width: 350px;
+    }
+  }
+
+  .quote-text {
+    margin-left: 36px;
+    width: 400px;
+    line-height: 1.5em;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
+}
