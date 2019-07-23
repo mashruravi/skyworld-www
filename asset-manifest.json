@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/skyworld-www/static/css/main.57d98011.chunk.css",
+    "main.js": "/skyworld-www/static/js/main.2e659a13.chunk.js",
+    "main.js.map": "/skyworld-www/static/js/main.2e659a13.chunk.js.map",
+    "runtime~main.js": "/skyworld-www/static/js/runtime~main.ed9bb054.js",
+    "runtime~main.js.map": "/skyworld-www/static/js/runtime~main.ed9bb054.js.map",
+    "static/js/2.5d9f3cea.chunk.js": "/skyworld-www/static/js/2.5d9f3cea.chunk.js",
+    "static/js/2.5d9f3cea.chunk.js.map": "/skyworld-www/static/js/2.5d9f3cea.chunk.js.map",
+    "index.html": "/skyworld-www/index.html",
+    "precache-manifest.e185bc78775df2c9d70335639217f0cb.js": "/skyworld-www/precache-manifest.e185bc78775df2c9d70335639217f0cb.js",
+    "service-worker.js": "/skyworld-www/service-worker.js",
+    "static/css/main.57d98011.chunk.css.map": "/skyworld-www/static/css/main.57d98011.chunk.css.map",
+    "static/media/003-boarding pass.svg": "/skyworld-www/static/media/003-boarding pass.2df101e3.svg",
+    "static/media/006-call.svg": "/skyworld-www/static/media/006-call.4bb529ce.svg",
+    "static/media/012-facebook.svg": "/skyworld-www/static/media/012-facebook.b4804016.svg",
+    "static/media/013-earth.svg": "/skyworld-www/static/media/013-earth.cdeb1541.svg",
+    "static/media/013-plane.svg": "/skyworld-www/static/media/013-plane.f09fca9a.svg",
+    "static/media/017-travel.svg": "/skyworld-www/static/media/017-travel.ca2a593d.svg",
+    "static/media/020-mail.svg": "/skyworld-www/static/media/020-mail.b428cf5e.svg",
+    "static/media/034-phone.svg": "/skyworld-www/static/media/034-phone.63f288f8.svg",
+    "static/media/037-tablet.svg": "/skyworld-www/static/media/037-tablet.fd86afa5.svg",
+    "static/media/logo.jpeg": "/skyworld-www/static/media/logo.85dd2fdb.jpeg",
+    "static/media/paresh.jpg": "/skyworld-www/static/media/paresh.c066a166.jpg",
+    "static/media/banner.scss": "/skyworld-www/static/media/ugflag1.956ee67d.jpg"
+  }
+}
