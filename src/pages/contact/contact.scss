@@ -1,0 +1,41 @@
+.pagewellStyle {
+  max-width: 1080px;
+  margin: auto;
+  padding: 24px;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.locationImage {
+  background-color: gray;
+  height: 400px;
+  width: 600px;
+  background-position: center;
+}
+
+.contact-details {
+
+margin-top: 24px;
+
+  .cd-row {
+    display: flex;
+    align-items: center;
+    margin: 32px 0;
+  }
+
+  .cd-icon {
+    width: 70px;
+    img {
+      height: 48px;
+    }
+  }
+
+  .cd-text {
+    p {
+      margin: 0;
+    }
+  }
+}
