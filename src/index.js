@@ -19,7 +19,7 @@ const routes = [
 function App() {
   return (
     <div>
-      <Router>
+      <Router basename="/skyworld-www">
         <Header routes={routes}/>
         { routes.map(e => (
           <Route key={e.id} path={e.path} exact component={e.component} />
