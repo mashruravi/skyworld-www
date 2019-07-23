@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03ddbe6d296dedaa5fbf24160415c877",
+    "revision": "0659a08615e6a9de700d56aa487e2578",
     "url": "/skyworld-www/index.html"
   },
   {
-    "revision": "89f9e8aef1d7d53e48e6",
+    "revision": "3ea5141cd4cba335555a",
     "url": "/skyworld-www/static/css/main.57d98011.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/skyworld-www/static/js/2.5d9f3cea.chunk.js"
   },
   {
-    "revision": "89f9e8aef1d7d53e48e6",
-    "url": "/skyworld-www/static/js/main.2e659a13.chunk.js"
+    "revision": "3ea5141cd4cba335555a",
+    "url": "/skyworld-www/static/js/main.43df8848.chunk.js"
   },
   {
     "revision": "a8e356cfb91d473c4493",
