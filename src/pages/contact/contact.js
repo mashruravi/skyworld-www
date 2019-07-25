@@ -13,7 +13,7 @@ import './contact.scss';
 export class Contact extends Component {
   render() {
     return (
-      <div>
+      <div style={{backgroundColor: 'rgba(0, 0, 0, 0.07)'}}>
         <div className="pagewellStyle">
           <div className="locationImage" />
 
