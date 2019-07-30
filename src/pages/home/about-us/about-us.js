@@ -33,7 +33,7 @@ export default function AboutUs() {
           <p>
             With the kind of experience our staff has, all our customers are
             guaranteed to get an amazing experience be it for local travels,
-            international tours, individual bookings, our mass group bookings.
+            international tours, individual bookings, or mass group bookings.
           </p>
           <p style={{ alignSelf: 'flex-end' }}>
             Paresh Mehta <strong>(Director)</strong>
