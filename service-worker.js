@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/skyworld-www/precache-manifest.b0263fa8dd060c6a1c7b1562f58bf6ab.js"
+  "/skyworld-www/precache-manifest.fecd81ddfef86e9204eda5a645d8333e.js"
 );
 
 self.addEventListener('message', (event) => {
