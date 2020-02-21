@@ -16,7 +16,15 @@ class Header extends Component {
 
   render() {
     return (
-      <div style={{ display: 'flex', margin: '14px 48px' }}>
+      <div style={{ 
+        display: 'flex',
+        padding: '14px 48px',
+        position: 'sticky',
+        top: '0',
+        backgroundColor: 'white',
+        zIndex: '999',
+        boxShadow: '0px 0px 10px 0px rgba(0, 0, 0, 0.3)'
+      }}>
         <img style={{ height: '50px' }} src={logo} alt="Logo" />
         <span id="spacer" style={{ margin: 'auto' }} />
         { this.props.routes.map(e => {
