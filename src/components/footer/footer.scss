@@ -1,6 +1,8 @@
+$text-color: #999;
+
 .footer-container {
   background-color: rgb(8, 20, 32);
-  color: white;
+  color: $text-color;
   font-size: 12px;
   display: flex;
   flex-direction: column;
@@ -13,6 +15,6 @@
   }
 
   a, a:visited, a:active {
-    color: white;
+    color: $text-color;
   }
 }
